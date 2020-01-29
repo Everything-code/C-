@@ -1,0 +1,13 @@
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\bin\Debug\GameSimulator.exe.config
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\bin\Debug\GameSimulator.exe
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\bin\Debug\GameSimulator.pdb
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.csprojAssemblyReference.cache
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Form1.resources
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Properties.Resources.resources
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.csproj.GenerateResource.cache
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.csproj.CoreCompileInputs.cache
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.exe
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.pdb
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.MemoryPuzzle.resources
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Nibbles.resources
+C:\Users\DeV_NEN\Desktop\Project\GameSimulator\GameSimulator\obj\Debug\GameSimulator.Dodger.resources
